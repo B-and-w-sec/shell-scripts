@@ -5,5 +5,5 @@ This repo contains scripts i used while bug bounty.
 2. linkfinder.sh is used with linkfinder.py script which is also usinga loop to extract links from the js files.
 2. Secretsfinder.sh is used with secretfinder.py script which is also using a loop to extract links from the js files.
 
-# Make sure to check and add the tools path correctly in your shell scripts, And move them to /usr/bin
+### Make sure to check and add the tools path correctly in your shell scripts, And move them to /usr/bin
 
